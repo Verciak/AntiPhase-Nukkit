@@ -1,0 +1,6 @@
+name: AntiPhase
+version: 0.0.1
+main: pl.vertty.phase.Main
+author: VerttyPL
+description: Block phase and noclip on your server!
+api: [1.0.8]
